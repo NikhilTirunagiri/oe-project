@@ -1,4 +1,5 @@
-# oe-project
+# Vacuum Cleaner Bot
+## Autonomous Robotics open ended project
 
 ## Install the following first
 ```bash
