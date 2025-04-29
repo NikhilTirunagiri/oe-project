@@ -6,10 +6,10 @@
 sudo apt-get install ros-noetic-move-base ros-noetic-turtlebot3-bringup ros-noetic-turtlebot3-navigation ros-noetic-explore-lite
 ```
 
-## Next steps:
+### Next steps:
 Download this repo and cd into the catkin_ws 
 
-## Runing
+### Runing
 ```bash
 catkin_make
 ```
