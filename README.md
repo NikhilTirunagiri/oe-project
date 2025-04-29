@@ -14,6 +14,11 @@ Download this repo and cd into the catkin_ws
 catkin_make
 ```
 ```bash
+source setup.sh
+source setup.bash
+```
+
+```bash
 export TURTLEBOT3_MODEL=waffle_pi
 ```
 ```bash
