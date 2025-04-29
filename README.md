@@ -1,7 +1,7 @@
 # Vacuum Cleaner Bot
-## Autonomous Robotics open ended project
+### Autonomous Robotics open ended project
 
-## Install the following first
+### Install the following first
 ```bash
 sudo apt-get install ros-noetic-move-base ros-noetic-turtlebot3-bringup ros-noetic-turtlebot3-navigation ros-noetic-explore-lite
 ```
@@ -9,7 +9,7 @@ sudo apt-get install ros-noetic-move-base ros-noetic-turtlebot3-bringup ros-noet
 ## Next steps:
 Download this repo and cd into the catkin_ws 
 
-## Run
+## Runing
 ```bash
 catkin_make
 ```
