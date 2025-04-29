@@ -1,6 +1,6 @@
 # Vacuum Cleaner Bot
 ### Autonomous Robotics open ended project
-
+---
 ### Install the following first
 ```bash
 sudo apt-get install ros-noetic-move-base ros-noetic-turtlebot3-bringup ros-noetic-turtlebot3-navigation ros-noetic-explore-lite
