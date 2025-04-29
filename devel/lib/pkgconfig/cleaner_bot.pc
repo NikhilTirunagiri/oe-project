@@ -1,0 +1,8 @@
+prefix=/home/nt/Desktop/catkin_ws/devel
+
+Name: cleaner_bot
+Description: Description of cleaner_bot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
