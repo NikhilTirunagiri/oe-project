@@ -32,3 +32,11 @@ roslaunch cleaner_bot do_cleaning.launch
 ```
 
 
+Sources: 
+1. [Github: Tofigh-Tevfik/cleaner_bot](https://github.com/Tofigh-Tevfik/cleaner_bot)
+2. [Github: peterWon/CleaningRobot](https://github.com/peterWon/CleaningRobot)
+3. [Github: Intenzo21/ROS-vacuum-cleaner](https://github.com/Intenzo21/ROS-vacuum-cleaner)
+4. [Medium: Robot Vacuum Cleaner Part 3/3](https://medium.com/cse-468-568-robotic-algorithms/robot-vacuum-cleaner-part-3-3-2bc317cf17db)
+
+ 
+
