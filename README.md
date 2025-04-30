@@ -40,7 +40,7 @@ rosrun map_server map_saver --occ 90 --free 10 -f ~/catkin_ws/src/cleaner_bot/ma
 Start performing cleaning by closing the exploration node and running the following:
 
 ```bash
-roslaunch cleaner_bot <YOUR SCANNED MAP>.launch 
+roslaunch cleaner_bot <YOUR_SCANNED_MAP>.launch 
 ```
 
 
