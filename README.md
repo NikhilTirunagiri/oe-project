@@ -9,7 +9,7 @@ sudo apt-get install ros-noetic-move-base ros-noetic-turtlebot3-bringup ros-noet
 ### Next steps:
 Download this repo and cd into the catkin_ws 
 
-### Runing
+### Setup workspace
 ```bash
 catkin_make
 ```
@@ -17,15 +17,22 @@ catkin_make
 source setup.sh
 source setup.bash
 ```
-
+### Runing
 ```bash
 export TURTLEBOT3_MODEL=waffle_pi
 ```
+
+Launch gazebo with cleaner_bot
 ```bash
 roslaunch cleaner_bot gazebo.launch
 ```
-Save your map with following command:
 
+explore explore.launch 
+```bash
+roslaunch cleaner_bot explore.launch
+```
+
+Save the scanned map with following command:    
 ```bash
 rosrun map_server map_saver --occ 90 --free 10 -f ~/catkin_ws/src/cleaner_bot/map/<YOUR_MAP> map:=/map
 ```
